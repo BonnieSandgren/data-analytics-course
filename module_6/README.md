@@ -20,22 +20,22 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Estimated total time to complete: 1 hour_
 
-- [ ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
-- [ ] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
+- [X] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
+- [] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
 
 ----
 
-<img width="750" alt="Screenshot 2024-09-26 at 2 16 38 PM" src="https://github.com/user-attachments/assets/f566947c-619e-4481-9f98-1d161dcd1aa5">
+<img widtXh="750" alt="Screenshot 2024-09-26 at 2 16 38 PM" src="https://github.com/user-attachments/assets/f566947c-619e-4481-9f98-1d161dcd1aa5">
 
 _Estimated total time to complete: 4 hours_
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
-- [ ] Follow along in Google Looker Data Studio  
+- [X] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
+- [X] Follow along in Google Looker Data Studio  
 
 ## Assignment #5 - Complete by class Saturday
 
-- [ ] Analyze (anonymized) [Tech-Moms Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing) in Looker
-- [ ] Choose how you would like to share your findings to data@tech-moms.org:
+- [X] Analyze (anonymized) [Tech-Moms Survey Data](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?usp=sharing) in Looker
+- [ X Choose how you would like to share your findings to data@tech-moms.org:
 - Dashboard with bullet points of insights
 - Slide Deck
 - Written Report
