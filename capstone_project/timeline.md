@@ -2,11 +2,11 @@
 
 ## Week 1 - Oct 28th, 2024 
 
-- [ ] Decide on project
+- [x] Decide on project
 
 ## Week 2 - Nov 4th, 2024 
 
-- [ ] Data in hand and start analysis
+- [x] Data in hand and start analysis
 - [ ] Get to know your data (create a data dictionary if needed)
 - [ ] Clean the data
 - [ ] Do exploritory analysis - ask questions of the data 
